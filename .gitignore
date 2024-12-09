@@ -32,4 +32,12 @@ env/
 *.swp
 *.swo
 
+# Media files
+downloads/*.wav
+downloads/*.mp4
+downloads/*.mp3
+downloads/temp/*
 
+# Keep the downloads directory structure
+!downloads/.gitkeep
+!downloads/temp/.gitkeep
