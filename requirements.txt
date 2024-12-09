@@ -1,0 +1,13 @@
+yt-dlp>=2023.11.16
+ffmpeg-python>=0.2.0
+assemblyai>=0.17.0
+deep-translator>=1.11.4
+coqui-tts>=0.22.0
+moviepy>=1.0.3
+requests>=2.31.0
+transformers>=4.36.0
+torch>=2.1.1
+scipy>=1.11.4
+librosa>=0.10.0
+soundfile>=0.12.1
+pydub
